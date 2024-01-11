@@ -8,3 +8,4 @@
 ## Animated Telcoin Emoji
 
 ![Animated Telcoin Emoji](Readme/Animated-Telcoin-Emoji-50-Variants.gif)
+![Rainbow Emoji](Examples/rainbow-emoji.gif)
